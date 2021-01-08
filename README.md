@@ -50,8 +50,6 @@
 
 ---
 
-  <img align="left" alt="dianavile's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dianavile&show_icons=true&hide_border=true" />
-
 <details>
   <summary>:zap: Experience: :gem: </summary>
 
